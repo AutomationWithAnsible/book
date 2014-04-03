@@ -1,6 +1,0 @@
----
-
-- include: 
-     setup_nginx.yml
-- include: 
-     deploy_webapp.yml

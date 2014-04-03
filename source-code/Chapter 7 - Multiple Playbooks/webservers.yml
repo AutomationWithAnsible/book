@@ -1,5 +1,0 @@
-- hosts: web
-  sudo: true
-  roles: 
-    - common
-    - webservers
